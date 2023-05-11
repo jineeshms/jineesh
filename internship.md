@@ -6,3 +6,4 @@ in day two we have lerned  to use tinkercad.
 
 ## day 3
 ## and
+[and](https://github.com/jineeshms/jineesh/blob/main/and.png)
