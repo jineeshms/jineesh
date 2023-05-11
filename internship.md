@@ -2,3 +2,5 @@
 ## day 1
 In day one we are create an accuont in github and learned how  to use.
 ## day 2
+in day two we have lerned  to use tinkercad.
+[day2](https://github.com/jineeshms/jineesh/edit/main/internship.md)
