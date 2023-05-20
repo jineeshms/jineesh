@@ -29,6 +29,7 @@ void loop()
 }
 ```
 ### bling
+![day3](https://github.com/jineeshms/jineesh/blob/main/bling.png)
 ```
 // C++ code
 //
