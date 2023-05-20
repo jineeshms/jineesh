@@ -54,7 +54,19 @@ void loop()
 ![day3](https://github.com/jineeshms/jineesh/blob/main/and2.png)
 ![day3](https://github.com/jineeshms/jineesh/blob/main/and3.png)
 [day3]
+}
+```
+// C++ code
+//
+void setup()
+{
+   pinMode(13, OUTPUT);
+   pinMode(12, OUTPUT);
+   pinMode(8, OUTPUT);
+   pinMode(7, OUTPUT);
+   pinMode(4, OUTPUT);
 
+}
 
 void loop()
 {
