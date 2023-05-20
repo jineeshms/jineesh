@@ -5,10 +5,10 @@ In day one we are create an accuont in github and learned how  to use.
 ## day 2
 in day two we have lerned  to use tinkercad.
 ![tinkercad](https://www.tinkercad.com/dashboard)
-## blink
+### blink
 ![day2](https://github.com/jineeshms/jineesh/blob/main/day2.png)
 ## day 3
-## and gate
+### and gate
 ![and](https://github.com/jineeshms/jineesh/blob/main/and.png)
 ```
 // C++ code
@@ -26,7 +26,7 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 ```
-## bling
+### bling
 ```
 // C++ code
 //
@@ -58,4 +58,4 @@ void loop()
 ![day5](https://github.com/jineeshms/jineesh/blob/main/day5.png)
 [day5](
 ````
-## day 8
+
