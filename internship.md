@@ -53,7 +53,7 @@ void loop()
 ```
 ![day3](https://github.com/jineeshms/jineesh/blob/main/and2.png)
 ![day3](https://github.com/jineeshms/jineesh/blob/main/and3.png)
-[day3]
+![day3](https://github.com/jineeshms/jineesh/blob/main/day3.png)
 }
 ```
 // C++ code
