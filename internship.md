@@ -224,6 +224,7 @@ void loop()
 ### arduino
 ![day5](https://github.com/jineeshms/jineesh/blob/main/day5.png)
 ## Day 6
+[day6](https://github.com/jineeshms/jineesh/blob/main/Screenshot%202023-05-16%20at%2010-24-42%203D%20design%20Fantabulous%20Kieran%20Tinkercad.png)
 ## Day 7
 ## Day 8
 ![day8](https://github.com/jineeshms/jineesh/blob/main/7seg.png)
