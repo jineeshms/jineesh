@@ -5,7 +5,7 @@ In day one we are create an accuont in github and learned how  to use.
 in day two we have lerned  to use tinkercad.
 
 ## day 3
-## and
+## and gate
 ![and](https://github.com/jineeshms/jineesh/blob/main/and.png)
 ```
 // C++ code
