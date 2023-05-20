@@ -10,7 +10,7 @@ in day two we have lerned  to use tinkercad.
 ### exp 2
 ![day2](https://github.com/jineeshms/jineesh/blob/main/led.png)
 ## day 3
-### and gate
+### And gate
 ![and](https://github.com/jineeshms/jineesh/blob/main/and.png)
 ```
 // C++ code
