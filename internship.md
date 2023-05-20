@@ -46,7 +46,9 @@ void loop()
   delay(1000);// Wait for 1000 millisecond(s)
 }
 ```
-![day4](https://github.com/jineeshms/jineesh/blob/main/and2.png)
+![day3](https://github.com/jineeshms/jineesh/blob/main/and2.png)
+![day3](https://github.com/jineeshms/jineesh/blob/main/and3.png)
+
 
 ## day 4
 
