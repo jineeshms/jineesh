@@ -1,15 +1,15 @@
 # 10 days internship at jyothi collage from 08-05-2023 to 20-05-2023
-## day 1
+## Day 1
 ![github](https://github.com/jineeshms/jineesh)
 In day one we are create an accuont in github and learned how  to use.
-## day 2
+## Day 2
 in day two we have lerned  to use tinkercad.
 ![tinkercad](https://www.tinkercad.com/dashboard)
 ### exp 1
 ![day2](https://github.com/jineeshms/jineesh/blob/main/day2.png)
 ### exp 2
 ![day2](https://github.com/jineeshms/jineesh/blob/main/led.png)
-## day 3
+## Day 3
 ### And gate
 ![and](https://github.com/jineeshms/jineesh/blob/main/and.png)
 ```
@@ -53,11 +53,10 @@ void loop()
 ```
 ![day3](https://github.com/jineeshms/jineesh/blob/main/and2.png)
 ![day3](https://github.com/jineeshms/jineesh/blob/main/and3.png)
+ 
+## Day 4
 
- ```
-## day 4
-
-## day 5
+## Day 5
 ### arduino
 ![day5](https://github.com/jineeshms/jineesh/blob/main/day5.png)
 ````
