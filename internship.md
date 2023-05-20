@@ -8,6 +8,7 @@ in day two we have lerned  to use tinkercad.
 ### exp 1
 ![day2](https://github.com/jineeshms/jineesh/blob/main/day2.png)
 ### exp 2
+![day2](https://github.com/jineeshms/jineesh/blob/main/led.png)
 ## day 3
 ### and gate
 ![and](https://github.com/jineeshms/jineesh/blob/main/and.png)
