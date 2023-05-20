@@ -59,5 +59,8 @@ void loop()
 ## Day 5
 ### arduino
 ![day5](https://github.com/jineeshms/jineesh/blob/main/day5.png)
-````
+## Day 6
+## Day 7
+## Day 8
+![day8](https://github.com/jineeshms/jineesh/blob/main/7seg.png)
 
