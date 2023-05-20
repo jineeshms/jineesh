@@ -44,8 +44,9 @@ void loop()
   digitalWrite(13, LOW);
   delay(1000);// Wait for 1000 millisecond(s)
 }
-![day4](https://github.com/jineeshms/jineesh/blob/main/and2.png)
 ```
+![day4](https://github.com/jineeshms/jineesh/blob/main/and2.png)
+
 ## day 4
 
 ## day 5
